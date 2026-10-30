@@ -1,0 +1,16 @@
+
+Technical and IT Policy
+
+All employees must use company-approved software for official work.
+
+Employees must use multi-factor authentication when accessing company systems.
+
+Company laptops must have antivirus protection enabled.
+
+Employees must not share their account passwords with anyone.
+
+All technical support requests must be submitted through the IT helpdesk.
+
+Critical system incidents must be reported immediately to the IT department.
+
+Access to confidential company data requires authorization from the department manager.
